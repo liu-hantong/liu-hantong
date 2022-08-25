@@ -32,3 +32,9 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/rating.svg)
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/Jigyansu?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/light_card.svg" />
+</p>
