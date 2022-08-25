@@ -1,4 +1,13 @@
-### Hi there 👋 I am Jigyansu Nanda
+## Hi there 👋 I am Jigyansu Nanda
+
+<p align="left">
+  <a href="https://leetcode.com/sudiptob2/">
+    <img src="https://cp-logo.vercel.app/leetcode/Jigyansu" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/sudipto.me">
+    <img src="https://raw.githubusercontent.com/Jigyansu/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a>
+</p>
 
 <!--
 **Jigyansu-Nanda/Jigyansu-Nanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
