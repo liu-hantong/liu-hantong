@@ -2,10 +2,10 @@
 
 <p align="left">
   <a href="https://leetcode.com/sudiptob2/">
-    <img src="https://cp-logo.vercel.app/leetcode/Jigyansu" alt="Leet code rating" />
+    <img src="https://cp-logo.vercel.app/leetcode/Jigyansu" alt="Leetcode rating" />
   </a>
-  <a href="https://codeforces.com/profile/sudipto.me">
-    <img src="https://raw.githubusercontent.com/Jigyansu/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  <a href="https://codeforces.com/profile/antiprism">
+    <img src="https://raw.githubusercontent.com/Jigyansu/cf-stats/main/output/rating.svg" alt="Codeforces rating" />
   </a>
 </p>
 
