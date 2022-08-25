@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Jigyansu Nanda
 
 <!--
 **Jigyansu-Nanda/Jigyansu-Nanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 📊 Competitive Programming
+
+![](https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/light_card.svg)
+
+![](https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/rating.svg)
