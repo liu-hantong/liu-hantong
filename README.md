@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/Jigyansu?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/light_card.svg" />
+<img height="273em" src="https://leetcard.jacoblin.cool/Jigyansu?theme=dark&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
 </p>
