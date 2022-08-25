@@ -2,10 +2,10 @@
 
 <p align="left">
   <a href="https://leetcode.com/Jigyansu/">
-    <img src="https://cp-logo.vercel.app/leetcode/Jigyansu" alt="Leet code rating" />
+    <img src="https://cp-logo.vercel.app/leetcode/Jigyansu" alt="Leetcode rating" />
   </a>
   <a href="https://codeforces.com/profile/antiprism">
-    <img src="https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+    <img src="https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/rating.svg" alt="Codeforces rating" />
   </a>
 </p>
 
@@ -27,13 +27,6 @@ Here are some ideas to get you started:
 
 #### 📊 Competitive Programming
 
-![](https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-<!-- ![](https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/light_card.svg) -->
-
-![](https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/rating.svg)
-
-<b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/Jigyansu?theme=dark&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
