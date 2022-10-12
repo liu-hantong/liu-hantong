@@ -1,11 +1,8 @@
 ## Hi there 👋 I am Jigyansu Nanda
 
-<p align="left">
+<p align="center">
   <a href="https://leetcode.com/Jigyansu/">
     <img src="https://cp-logo.vercel.app/leetcode/Jigyansu" alt="Leetcode rating" />
-  </a>
-  <a href="https://codeforces.com/profile/antiprism">
-    <img src="https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/rating.svg" alt="Codeforces rating" />
   </a>
 </p>
 
@@ -25,11 +22,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 📊 Competitive Programming
+#### 📊 Algorithmic Problem Solving
 
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/Jigyansu?theme=dark&font=Karma&ext=contest"/>
-<img height="280em" src="https://raw.githubusercontent.com/Jigyansu-Nanda/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+<img height="300em" src="https://leetcard.jacoblin.cool/Jigyansu?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 <b>⚡ Github Stats</b>
