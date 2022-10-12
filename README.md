@@ -25,13 +25,11 @@ Here are some ideas to get you started:
 #### 📊 Algorithmic Problem Solving
 
 <p align="center">
-<img height="250em" width="500em" src="https://leetcard.jacoblin.cool/Jigyansu?theme=dark&font=Karma&ext=contest"/>
+<img height="300em" width="500em" src="https://leetcard.jacoblin.cool/Jigyansu?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 <b>⚡ Github Stats</b>
-<p align="left">
+<p float="center">
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Jigyansu-Nanda&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-</p>
-<p align="right">
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyansu-Nanda&theme=gotham&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
