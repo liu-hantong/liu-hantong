@@ -1,10 +1,10 @@
 ## Hi there 👋 I am Jigyansu Nanda
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://leetcode.com/Jigyansu/">
     <img src="https://cp-logo.vercel.app/leetcode/Jigyansu" alt="Leetcode rating" />
   </a>
-</p>
+</p> -->
 
 
 <!--
@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 #### 📊 Algorithmic Problem Solving
 
-<p float="left">
-<img height="300em" src="https://leetcard.jacoblin.cool/Jigyansu?theme=dark&font=Karma&ext=contest"/>
+<p float="center">
+<img height="400em" width="500em" src="https://leetcard.jacoblin.cool/Jigyansu?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 <b>⚡ Github Stats</b>
