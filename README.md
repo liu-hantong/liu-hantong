@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 #### 📊 Algorithmic Problem Solving
 
 <p align="center">
-<img height="300em" width="590em" src="https://leetcard.jacoblin.cool/Jigyansu?theme=dark&font=Karma&ext=contest"/>
+<img height="320em" width="800em" src="https://leetcard.jacoblin.cool/Jigyansu?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Jigyansu-Nanda&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyansu-Nanda&theme=gotham&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Jigyansu-Nanda&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigyansu-Nanda&theme=gotham&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
