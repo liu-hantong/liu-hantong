@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Jigyansu Nanda
 
 <!-- <p align="center">
-  <a href="https://leetcode.com/Jigyansu/">
-    <img src="https://cp-logo.vercel.app/leetcode/Jigyansu" alt="Leetcode rating" />
+  <a href="https://leetcode.com/jigyansunanda/">
+    <img src="https://cp-logo.vercel.app/leetcode/jigyansunanda" alt="Leetcode rating" />
   </a>
 </p> -->
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 #### 📊 Algorithmic Problem Solving
 
 <p align="center">
-<img height="320em" width="800em" src="https://leetcard.jacoblin.cool/Jigyansu?theme=dark&font=Karma&ext=contest"/>
+<img height="320em" width="800em" src="https://leetcard.jacoblin.cool/jigyansunanda?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 <b>⚡ Github Stats</b>
