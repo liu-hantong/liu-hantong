@@ -1,4 +1,4 @@
-## Hi there 👋 I am Harley Liu
+## Hi there 👋 I am Harley.
 
 <!-- <p align="center">
   <a href="https://leetcode.com/TongHeartYes//">
